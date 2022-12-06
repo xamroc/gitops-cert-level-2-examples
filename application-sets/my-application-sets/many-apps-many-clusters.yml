@@ -12,7 +12,7 @@ spec:
               repoURL: https://github.com/xamroc/gitops-cert-level-2-examples.git
               revision: HEAD
               directories:
-                - path: applicationset/examples-apps/*
+                - path: application-sets/examples-apps/*
           # cluster generator, 'child' #2
           - clusters: {}
   template:
